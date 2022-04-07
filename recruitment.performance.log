@@ -1,0 +1,200 @@
+2021-12-30 11:20:05,557 interview.performance 19 INFO     0.039891719818115234 / {}
+2021-12-30 11:20:10,945 interview.performance 19 INFO     0.01497650146484375 / {}
+2021-12-30 11:21:01,811 interview.performance 19 INFO     0.007978439331054688 / {}
+2021-12-30 11:21:10,011 interview.performance 19 INFO     0.010970592498779297 /favicon.ico {}
+2021-12-30 11:21:10,159 interview.performance 19 INFO     0.010970830917358398 /admin/ {}
+2021-12-30 11:21:10,394 interview.performance 19 INFO     0.2323775291442871 /admin/login/ {'next': '/admin/'}
+2021-12-30 11:21:13,017 interview.performance 19 INFO     0.14560651779174805 /admin/login/ {'next': '/admin/'}
+2021-12-30 11:21:13,042 interview.performance 19 INFO     0.021941184997558594 /admin/ {}
+2021-12-30 11:21:14,148 interview.performance 19 INFO     0.12027311325073242 /admin/interview/candidate/ {}
+2021-12-30 11:21:14,196 interview.performance 19 INFO     0.02293848991394043 /admin/jsi18n/ {}
+2021-12-30 11:21:15,735 interview.performance 19 INFO     0.0 /resume/1 {}
+2021-12-30 11:21:15,754 interview.performance 19 INFO     0.013960599899291992 /resume/1/ {}
+2021-12-30 11:25:05,353 interview.performance 19 INFO     0.0009968280792236328 /admin/ {}
+2021-12-30 11:25:05,364 interview.performance 19 INFO     0.008977174758911133 /admin/login/ {'next': '/admin/'}
+2021-12-30 11:27:43,473 interview.performance 19 INFO     0.003989458084106445 /detail_resume/1/ {}
+2021-12-30 11:40:56,343 interview.performance 19 INFO     0.0019953250885009766 /api {}
+2021-12-30 11:40:56,377 interview.performance 19 INFO     0.02992701530456543 /api/ {}
+2021-12-30 11:41:01,626 interview.performance 19 INFO     0.02842116355895996 /api/users/ {}
+2021-12-30 11:44:23,661 interview.performance 19 INFO     0.03291201591491699 /api/ {}
+2021-12-30 11:44:24,767 interview.performance 19 INFO     0.12141942977905273 /api/jobs/ {}
+2021-12-30 14:24:48,794 interview.performance 19 INFO     0.039893150329589844 /api/jobs/ {}
+2021-12-30 14:24:54,274 interview.performance 19 INFO     0.009972333908081055 /api/ {}
+2021-12-30 14:24:55,824 interview.performance 19 INFO     0.009974479675292969 /api/ {}
+2021-12-30 14:24:56,282 interview.performance 19 INFO     0.010970830917358398 /api/ {}
+2021-12-30 14:24:57,366 interview.performance 19 INFO     0.01196742057800293 /api/ {}
+2021-12-30 14:24:59,427 interview.performance 19 INFO     0.0059854984283447266 /api/ {'format': 'json'}
+2021-12-30 14:25:01,719 interview.performance 19 INFO     0.00598454475402832 /api/users/ {'format': 'json'}
+2021-12-30 14:25:07,932 interview.performance 19 INFO     0.013475656509399414 /api/ {}
+2021-12-30 14:25:09,354 interview.performance 19 INFO     0.010970354080200195 /api/ {'format': 'api'}
+2021-12-30 14:25:12,244 interview.performance 19 INFO     0.02245473861694336 /api/users/ {'format': 'api'}
+2021-12-30 15:18:48,196 interview.performance 19 INFO     0.043882131576538086 /api/ {'format': 'api'}
+2021-12-30 15:18:52,751 interview.performance 19 INFO     0.33745765686035156 /admin/interview/candidate/ {}
+2021-12-30 15:18:52,782 interview.performance 19 INFO     0.009971380233764648 /admin/jsi18n/ {}
+2021-12-30 15:18:55,830 interview.performance 19 INFO     0.03541684150695801 /admin/jobs/job/ {}
+2021-12-30 15:18:55,859 interview.performance 19 INFO     0.009973526000976562 /admin/jsi18n/ {}
+2021-12-30 15:18:57,874 interview.performance 19 INFO     0.03191399574279785 /admin/jobs/resume/ {}
+2021-12-30 15:18:57,906 interview.performance 19 INFO     0.009604454040527344 /admin/jsi18n/ {}
+2021-12-30 15:18:59,213 interview.performance 19 INFO     0.05684971809387207 /admin/jobs/resume/1/change/ {}
+2021-12-30 15:18:59,241 interview.performance 19 INFO     0.007981300354003906 /admin/jsi18n/ {}
+2021-12-30 15:19:17,031 interview.performance 19 INFO     0.19111967086791992 /admin/jobs/resume/1/change/ {}
+2021-12-30 15:19:17,085 interview.performance 19 INFO     0.05186009407043457 /admin/jobs/resume/ {}
+2021-12-30 15:19:17,112 interview.performance 19 INFO     0.006980419158935547 /admin/jsi18n/ {}
+2021-12-30 15:19:17,139 interview.performance 19 INFO     0.021941184997558594 /images/2913515155.png {}
+2021-12-30 15:19:21,610 interview.performance 19 INFO     0.049866676330566406 /admin/jobs/resume/1/change/ {}
+2021-12-30 15:19:21,639 interview.performance 19 INFO     0.008975982666015625 /admin/jsi18n/ {}
+2021-12-30 15:19:24,140 interview.performance 19 INFO     0.003989219665527344 /images/2913515155.png {}
+2021-12-30 15:19:26,025 interview.performance 19 INFO     0.048868656158447266 /admin/jobs/resume/1/change/ {}
+2021-12-30 15:19:32,107 interview.performance 19 INFO     0.008975982666015625 /admin/jobs/resume/1/change/ {}
+2021-12-30 15:19:32,144 interview.performance 19 INFO     0.03390836715698242 /admin/jobs/resume/ {}
+2021-12-30 15:19:32,171 interview.performance 19 INFO     0.008976936340332031 /admin/jsi18n/ {}
+2021-12-30 18:06:23,698 interview.performance 19 INFO     11.57097053527832 /admin/jobs/resume/ {}
+2021-12-30 18:08:22,137 interview.performance 19 INFO     0.16156673431396484 /admin/jobs/resume/ {}
+2021-12-30 18:08:22,195 interview.performance 19 INFO     0.007979393005371094 /admin/jsi18n/ {}
+2021-12-30 18:08:30,648 interview.performance 19 INFO     0.031907081604003906 /admin/jobs/resume/ {}
+2021-12-30 18:08:30,673 interview.performance 19 INFO     0.0009982585906982422 /admin/jsi18n/ {}
+2021-12-30 18:11:10,176 interview.performance 19 INFO     0.07579278945922852 /admin/jobs/job/ {}
+2021-12-30 18:11:20,822 interview.performance 19 INFO     0.04088783264160156 /admin/jobs/job/ {}
+2021-12-30 18:11:20,849 interview.performance 19 INFO     0.002988576889038086 /admin/jsi18n/ {}
+2021-12-30 18:11:23,152 interview.performance 19 INFO     0.04485750198364258 /admin/jobs/job/7/change/ {}
+2021-12-30 18:11:28,321 interview.performance 19 INFO     0.04433107376098633 /admin/jobs/job/7/change/ {}
+2021-12-30 18:11:28,349 interview.performance 19 INFO     0.003989458084106445 /admin/jsi18n/ {}
+2021-12-30 18:11:29,775 interview.performance 19 INFO     0.06183671951293945 /admin/jobs/job/7/change/ {}
+2021-12-30 18:11:29,803 interview.performance 19 INFO     0.0009987354278564453 /admin/jsi18n/ {}
+2021-12-30 18:11:31,011 interview.performance 19 INFO     0.03690028190612793 /admin/jobs/job/7/change/ {}
+2021-12-30 18:11:31,040 interview.performance 19 INFO     0.00299072265625 /admin/jsi18n/ {}
+2021-12-30 18:11:32,199 interview.performance 19 INFO     0.04140305519104004 /admin/jobs/job/7/change/ {}
+2021-12-30 18:11:32,227 interview.performance 19 INFO     0.002991199493408203 /admin/jsi18n/ {}
+2021-12-30 18:11:32,925 interview.performance 19 INFO     0.03590130805969238 /admin/jobs/job/7/change/ {}
+2021-12-30 18:11:32,950 interview.performance 19 INFO     0.0019960403442382812 /admin/jsi18n/ {}
+2021-12-30 18:11:33,797 interview.performance 19 INFO     0.03789925575256348 /admin/jobs/job/7/change/ {}
+2021-12-30 18:11:33,824 interview.performance 19 INFO     0.0039899349212646484 /admin/jsi18n/ {}
+2021-12-31 14:05:00,025 interview.performance 19 INFO     0.3281261920928955 /admin/ {}
+2021-12-31 14:05:00,442 interview.performance 19 INFO     0.3997468948364258 /admin/login/ {'next': '/admin/'}
+2021-12-31 14:05:21,874 interview.performance 19 INFO     0.027441740036010742 / {}
+2021-12-31 14:05:22,837 interview.performance 19 INFO     0.024025917053222656 /favicon.ico {}
+2021-12-31 14:05:25,535 interview.performance 19 INFO     0.009972572326660156 /job/5/ {}
+2021-12-31 14:05:26,849 interview.performance 19 INFO     0.2048656940460205 /resume/add/ {'apply_position': '大数据工程师', 'city': '北京'}
+2021-12-31 14:05:33,129 interview.performance 19 INFO     0.026693105697631836 /admin/ {}
+2021-12-31 14:05:36,878 interview.performance 19 INFO     0.06303071975708008 /admin/jobs/job/ {}
+2021-12-31 14:05:36,925 interview.performance 19 INFO     0.020944595336914062 /admin/jsi18n/ {}
+2021-12-31 14:05:38,785 interview.performance 19 INFO     0.04390454292297363 /admin/jobs/job/5/change/ {}
+2021-12-31 14:05:40,091 interview.performance 19 INFO     0.03712630271911621 /admin/jobs/resume/ {}
+2021-12-31 14:05:41,574 interview.performance 19 INFO     0.06258130073547363 /admin/jobs/resume/1/change/ {}
+2021-12-31 14:05:43,835 interview.performance 19 INFO     0.1280512809753418 /admin/interview/candidate/ {}
+2021-12-31 14:05:45,464 interview.performance 19 INFO     0.0 /resume/1 {}
+2021-12-31 14:05:45,476 interview.performance 19 INFO     0.007979154586791992 /resume/1/ {}
+2021-12-31 14:05:51,797 interview.performance 19 INFO     0.028922557830810547 /admin/registration/registrationprofile/ {}
+2021-12-31 14:05:54,084 interview.performance 19 INFO     0.034906625747680664 /admin/auth/user/ {}
+2021-12-31 14:05:55,720 interview.performance 19 INFO     0.03985190391540527 /admin/djapp/bookinfo/ {}
+2021-12-31 14:05:56,680 interview.performance 19 INFO     0.05037283897399902 /admin/djapp/peopleinfo/ {}
+2021-12-31 14:05:58,688 interview.performance 19 INFO     0.036940813064575195 /admin/djapp/bookinfo/ {}
+2021-12-31 14:05:59,482 interview.performance 19 INFO     0.10710883140563965 /admin/interview/candidate/ {}
+2021-12-31 14:06:01,047 interview.performance 19 INFO     0.031055688858032227 /admin/jobs/resume/ {}
+2021-12-31 14:06:01,707 interview.performance 19 INFO     0.06382918357849121 /admin/jobs/job/ {}
+2021-12-31 14:06:05,799 interview.performance 19 INFO     0.033908843994140625 /admin/jobs/resume/ {}
+2021-12-31 14:06:14,784 interview.performance 19 INFO     0.03690147399902344 /admin/jobs/job/ {}
+2021-12-31 14:06:18,656 interview.performance 19 INFO     0.1049957275390625 /admin/interview/candidate/ {}
+2021-12-31 14:09:59,296 interview.performance 19 INFO     0.007976531982421875 / {}
+2021-12-31 15:21:10,281 interview.performance 19 INFO     0.2341899871826172 /admin/interview/candidate/ {}
+2021-12-31 15:21:10,320 interview.performance 19 INFO     0.009973526000976562 /admin/jsi18n/ {}
+2021-12-31 15:21:11,788 interview.performance 19 INFO     0.038904428482055664 /admin/django_celery_results/taskresult/ {}
+2021-12-31 15:47:20,454 interview.performance 19 INFO     0.01296544075012207 / {}
+2021-12-31 15:48:05,506 interview.performance 19 INFO     0.13817358016967773 /admin/interview/candidate/ {}
+2021-12-31 15:48:05,541 interview.performance 19 INFO     0.008977413177490234 /admin/jsi18n/ {}
+2021-12-31 15:48:09,057 interview.performance 19 INFO     0.18450498580932617 /admin/interview/candidate/ {}
+2021-12-31 15:48:09,174 interview.performance 19 INFO     0.11270022392272949 /admin/interview/candidate/ {}
+2021-12-31 15:49:30,517 interview.performance 19 INFO     0.21841764450073242 /admin/interview/candidate/ {}
+2021-12-31 15:49:30,539 interview.performance 19 INFO     0.001994609832763672 /admin/jsi18n/ {}
+2021-12-31 15:49:37,260 interview.performance 19 INFO     0.05684638023376465 /admin/interview/candidate/ {}
+2021-12-31 15:51:18,501 interview.performance 19 INFO     0.2124333381652832 /admin/interview/candidate/ {}
+2021-12-31 15:51:19,763 interview.performance 19 INFO     0.12167477607727051 /admin/interview/candidate/ {}
+2021-12-31 15:51:19,785 interview.performance 19 INFO     0.0009980201721191406 /admin/jsi18n/ {}
+2021-12-31 15:51:24,628 interview.performance 19 INFO     0.19747257232666016 /admin/interview/candidate/ {}
+2021-12-31 15:51:24,733 interview.performance 19 INFO     0.10272502899169922 /admin/interview/candidate/ {}
+2021-12-31 15:52:05,641 interview.performance 19 INFO     0.13763165473937988 /admin/django_celery_results/taskresult/ {}
+2021-12-31 15:52:07,312 interview.performance 19 INFO     0.03191375732421875 /admin/django_celery_results/taskresult/ {}
+2021-12-31 15:52:07,339 interview.performance 19 INFO     0.00598454475402832 /admin/jsi18n/ {}
+2021-12-31 15:52:07,758 interview.performance 19 INFO     0.03490614891052246 /admin/django_celery_results/taskresult/ {}
+2021-12-31 15:52:07,781 interview.performance 19 INFO     0.003988742828369141 /admin/jsi18n/ {}
+2021-12-31 15:52:10,804 interview.performance 19 INFO     0.13416028022766113 /admin/interview/candidate/ {}
+2021-12-31 15:52:14,850 interview.performance 19 INFO     0.1735374927520752 /admin/interview/candidate/ {}
+2021-12-31 15:52:14,965 interview.performance 19 INFO     0.11170220375061035 /admin/interview/candidate/ {}
+2021-12-31 15:53:32,563 interview.performance 19 INFO     0.22835707664489746 /admin/interview/candidate/ {}
+2021-12-31 15:53:32,587 interview.performance 19 INFO     0.0009984970092773438 /admin/jsi18n/ {}
+2021-12-31 15:53:33,387 interview.performance 19 INFO     0.10074734687805176 /admin/interview/candidate/ {}
+2021-12-31 15:53:33,412 interview.performance 19 INFO     0.002992868423461914 /admin/jsi18n/ {}
+2021-12-31 15:53:34,450 interview.performance 19 INFO     0.12266206741333008 /admin/interview/candidate/ {}
+2021-12-31 15:53:34,475 interview.performance 19 INFO     0.003988504409790039 /admin/jsi18n/ {}
+2021-12-31 15:53:34,720 interview.performance 19 INFO     0.12666893005371094 /admin/interview/candidate/ {}
+2021-12-31 15:53:34,746 interview.performance 19 INFO     0.003989696502685547 /admin/jsi18n/ {}
+2021-12-31 15:53:34,896 interview.performance 19 INFO     0.1296534538269043 /admin/interview/candidate/ {}
+2021-12-31 15:53:35,012 interview.performance 19 INFO     0.1077113151550293 /admin/interview/candidate/ {}
+2021-12-31 15:53:35,036 interview.performance 19 INFO     0.002991199493408203 /admin/jsi18n/ {}
+2021-12-31 15:53:35,207 interview.performance 19 INFO     0.1545867919921875 /admin/interview/candidate/ {}
+2021-12-31 15:53:35,291 interview.performance 19 INFO     0.12370991706848145 /admin/interview/candidate/ {}
+2021-12-31 15:53:35,312 interview.performance 19 INFO     0.004987478256225586 /admin/jsi18n/ {}
+2021-12-31 15:53:35,572 interview.performance 19 INFO     0.11369538307189941 /admin/interview/candidate/ {}
+2021-12-31 15:53:35,596 interview.performance 19 INFO     0.003988027572631836 /admin/jsi18n/ {}
+2021-12-31 15:53:35,927 interview.performance 19 INFO     0.1107032299041748 /admin/interview/candidate/ {}
+2021-12-31 15:53:35,958 interview.performance 19 INFO     0.0029926300048828125 /admin/jsi18n/ {}
+2021-12-31 15:53:36,893 interview.performance 19 INFO     0.568112850189209 /admin/interview/candidate/ {}
+2021-12-31 15:53:37,292 interview.performance 19 INFO     0.9266626834869385 /admin/interview/candidate/ {}
+2021-12-31 15:53:37,385 interview.performance 19 INFO     0.9879868030548096 /admin/interview/candidate/ {}
+2021-12-31 15:53:37,429 interview.performance 19 INFO     1.0039420127868652 /admin/interview/candidate/ {}
+2021-12-31 15:53:37,433 interview.performance 19 INFO     0.9750204086303711 /admin/interview/candidate/ {}
+2021-12-31 15:53:37,456 interview.performance 19 INFO     0.9670412540435791 /admin/interview/candidate/ {}
+2021-12-31 15:53:37,484 interview.performance 19 INFO     0.958066463470459 /admin/interview/candidate/ {}
+2021-12-31 15:53:37,488 interview.performance 19 INFO     0.9311380386352539 /admin/interview/candidate/ {}
+2021-12-31 15:53:37,497 interview.performance 19 INFO     0.8912439346313477 /admin/interview/candidate/ {}
+2021-12-31 15:53:37,504 interview.performance 19 INFO     0.8862569332122803 /admin/interview/candidate/ {}
+2021-12-31 15:53:37,505 interview.performance 19 INFO     0.8327679634094238 /admin/interview/candidate/ {}
+2021-12-31 15:53:37,511 interview.performance 19 INFO     0.8148150444030762 /admin/interview/candidate/ {}
+2021-12-31 15:53:37,528 interview.performance 19 INFO     0.0009980201721191406 /admin/jsi18n/ {}
+2021-12-31 15:53:40,657 interview.performance 19 INFO     0.011695623397827148 /admin/interview/candidate/ {}
+2021-12-31 15:53:40,764 interview.performance 19 INFO     0.10372281074523926 /admin/interview/candidate/ {}
+2021-12-31 15:53:46,072 interview.performance 19 INFO     0.20245671272277832 /admin/interview/candidate/ {}
+2021-12-31 15:53:46,177 interview.performance 19 INFO     0.10123538970947266 /admin/interview/candidate/ {}
+2021-12-31 15:54:35,441 interview.performance 19 INFO     0.01096963882446289 /admin/interview/candidate/ {}
+2021-12-31 15:54:35,545 interview.performance 19 INFO     0.10172772407531738 /admin/interview/candidate/ {}
+2021-12-31 15:54:38,346 interview.performance 19 INFO     0.014960050582885742 /admin/interview/candidate/ {}
+2021-12-31 15:54:38,457 interview.performance 19 INFO     0.10571503639221191 /admin/interview/candidate/ {}
+2021-12-31 15:56:26,593 interview.performance 19 INFO     0.18650126457214355 /admin/interview/candidate/ {}
+2021-12-31 15:56:26,824 interview.performance 19 INFO     0.22738909721374512 /admin/interview/candidate/ {}
+2021-12-31 15:59:52,528 interview.performance 19 INFO     0.029193878173828125 /admin/interview/candidate/ {}
+2021-12-31 15:59:52,637 interview.performance 19 INFO     0.10671305656433105 /admin/interview/candidate/ {}
+2021-12-31 15:59:58,667 interview.performance 19 INFO     0.10671377182006836 /admin/interview/candidate/ {}
+2021-12-31 15:59:58,702 interview.performance 19 INFO     0.014961004257202148 /admin/jsi18n/ {}
+2021-12-31 16:00:00,202 interview.performance 19 INFO     0.10372161865234375 /admin/interview/candidate/ {}
+2021-12-31 16:00:00,229 interview.performance 19 INFO     0.002991199493408203 /admin/jsi18n/ {}
+2021-12-31 16:00:11,979 interview.performance 19 INFO     0.014959096908569336 /admin/interview/candidate/ {}
+2021-12-31 16:00:12,087 interview.performance 19 INFO     0.10372018814086914 /admin/interview/candidate/ {}
+2021-12-31 16:00:31,243 interview.performance 19 INFO     0.11169886589050293 /admin/interview/candidate/ {}
+2021-12-31 16:00:31,265 interview.performance 19 INFO     0.003988027572631836 /admin/jsi18n/ {}
+2021-12-31 16:00:52,114 interview.performance 19 INFO     0.023935556411743164 /admin/interview/candidate/ {}
+2021-12-31 16:00:52,216 interview.performance 19 INFO     0.09873461723327637 /admin/interview/candidate/ {}
+2021-12-31 16:01:28,446 interview.performance 19 INFO     0.016955137252807617 /admin/interview/candidate/ {}
+2021-12-31 16:01:28,554 interview.performance 19 INFO     0.10571837425231934 /admin/interview/candidate/ {}
+2021-12-31 16:04:09,628 interview.performance 19 INFO     0.10870647430419922 /admin/interview/candidate/ {}
+2021-12-31 16:04:09,654 interview.performance 19 INFO     0.0019974708557128906 /admin/jsi18n/ {}
+2021-12-31 16:04:12,874 interview.performance 19 INFO     0.015955448150634766 /admin/interview/candidate/ {}
+2021-12-31 16:04:12,983 interview.performance 19 INFO     0.10672974586486816 /admin/interview/candidate/ {}
+2021-12-31 16:44:44,561 interview.performance 19 INFO     0.21481943130493164 /admin/interview/candidate/ {}
+2021-12-31 16:44:44,604 interview.performance 19 INFO     0.00897526741027832 /admin/jsi18n/ {}
+2021-12-31 16:44:46,791 interview.performance 19 INFO     0.032906293869018555 /admin/django_celery_results/taskresult/ {}
+2021-12-31 16:44:47,589 interview.performance 19 INFO     0.05209779739379883 /admin/django_celery_results/taskresult/ {}
+2021-12-31 16:44:48,287 interview.performance 19 INFO     0.029294490814208984 /admin/django_celery_results/taskresult/add/ {}
+2021-12-31 16:44:55,534 interview.performance 19 INFO     0.02393507957458496 /admin/django_celery_results/taskresult/add/ {}
+2021-12-31 16:44:58,947 interview.performance 19 INFO     0.032912254333496094 /admin/django_celery_results/taskresult/ {}
+2021-12-31 16:45:01,576 interview.performance 19 INFO     0.033908843994140625 /admin/django_celery_results/taskresult/ {'status__exact': 'FAILURE'}
+2021-12-31 16:45:02,805 interview.performance 19 INFO     0.03615617752075195 /admin/django_celery_results/taskresult/ {'status__exact': 'PENDING'}
+2021-12-31 16:45:03,286 interview.performance 19 INFO     0.03927350044250488 /admin/django_celery_results/taskresult/ {'status__exact': 'RECEIVED'}
+2021-12-31 16:45:03,585 interview.performance 19 INFO     0.03438854217529297 /admin/django_celery_results/taskresult/ {'status__exact': 'REVOKED'}
+2021-12-31 16:45:03,939 interview.performance 19 INFO     0.03534078598022461 /admin/django_celery_results/taskresult/ {'status__exact': 'SUCCESS'}
+2021-12-31 16:45:04,162 interview.performance 19 INFO     0.035367488861083984 /admin/django_celery_results/taskresult/ {'status__exact': 'SUCCESS'}
+2021-12-31 16:45:06,958 interview.performance 19 INFO     0.02593064308166504 /admin/django_celery_results/taskresult/add/ {'_changelist_filters': 'status__exact=SUCCESS'}
+2021-12-31 16:45:08,781 interview.performance 19 INFO     0.018194913864135742 /admin/django_celery_results/taskresult/add/ {'_changelist_filters': 'status__exact=SUCCESS'}
+2021-12-31 16:45:08,819 interview.performance 19 INFO     0.03568673133850098 /admin/django_celery_results/taskresult/ {'status__exact': 'SUCCESS'}
+2021-12-31 16:45:12,377 interview.performance 19 INFO     0.027925968170166016 /admin/django_celery_results/taskresult/1/change/ {}
+2021-12-31 16:45:19,984 interview.performance 19 INFO     0.03989124298095703 /admin/django_celery_results/taskresult/ {'status__exact': 'SUCCESS'}
+2021-12-31 16:45:25,025 interview.performance 19 INFO     0.03441429138183594 /admin/registration/registrationprofile/ {}

@@ -1,0 +1,151 @@
+2021-12-30 11:18:05,920 django.utils.autoreload 637 INFO     Watching for file changes with StatReloader
+2021-12-30 11:19:42,233 django.utils.autoreload 637 INFO     Watching for file changes with StatReloader
+2021-12-30 11:21:10,011 django.request 224 WARNING  Not Found: /favicon.ico
+2021-12-30 11:27:43,473 django.request 224 WARNING  Not Found: /detail_resume/1/
+2021-12-30 11:27:57,114 django.utils.autoreload 251 INFO     D:\Program Files\JetBrains\python\djtest\jobs\urls.py changed, reloading.
+2021-12-30 11:27:57,654 django.utils.autoreload 637 INFO     Watching for file changes with StatReloader
+2021-12-30 11:35:34,139 django.utils.autoreload 251 INFO     D:\Program Files\JetBrains\python\djtest\setting\base.py changed, reloading.
+2021-12-30 11:35:34,677 django.utils.autoreload 637 INFO     Watching for file changes with StatReloader
+2021-12-30 11:35:53,714 django.utils.autoreload 251 INFO     D:\Program Files\JetBrains\python\djtest\djtest\urls.py changed, reloading.
+2021-12-30 11:35:54,292 django.utils.autoreload 637 INFO     Watching for file changes with StatReloader
+2021-12-30 11:37:30,781 django.utils.autoreload 251 INFO     D:\Program Files\JetBrains\python\djtest\setting\base.py changed, reloading.
+2021-12-30 11:37:31,396 django.utils.autoreload 637 INFO     Watching for file changes with StatReloader
+2021-12-30 11:39:41,741 django.utils.autoreload 251 INFO     D:\Program Files\JetBrains\python\djtest\djtest\urls.py changed, reloading.
+2021-12-30 11:39:42,316 django.utils.autoreload 637 INFO     Watching for file changes with StatReloader
+2021-12-30 11:39:59,542 django.utils.autoreload 637 INFO     Watching for file changes with StatReloader
+2021-12-30 11:40:44,832 django.utils.autoreload 251 INFO     D:\Program Files\JetBrains\python\djtest\djtest\urls.py changed, reloading.
+2021-12-30 11:40:45,368 django.utils.autoreload 637 INFO     Watching for file changes with StatReloader
+2021-12-30 11:44:15,778 django.utils.autoreload 251 INFO     D:\Program Files\JetBrains\python\djtest\djtest\urls.py changed, reloading.
+2021-12-30 11:44:16,360 django.utils.autoreload 637 INFO     Watching for file changes with StatReloader
+2021-12-30 14:29:21,887 django.utils.autoreload 251 INFO     D:\Program Files\JetBrains\python\djtest\setting\base.py changed, reloading.
+2021-12-30 14:29:22,908 django.utils.autoreload 637 INFO     Watching for file changes with StatReloader
+2021-12-30 14:31:29,262 django.utils.autoreload 251 INFO     D:\Program Files\JetBrains\python\djtest\setting\base.py changed, reloading.
+2021-12-30 15:18:46,386 django.utils.autoreload 637 INFO     Watching for file changes with StatReloader
+2021-12-30 15:19:17,139 django.request 224 WARNING  Not Found: /images/2913515155.png
+2021-12-30 15:19:24,140 django.request 224 WARNING  Not Found: /images/2913515155.png
+2021-12-30 18:05:26,346 django.utils.autoreload 251 INFO     D:\Program Files\JetBrains\python\djtest\setting\base.py changed, reloading.
+2021-12-30 18:05:27,306 django.utils.autoreload 637 INFO     Watching for file changes with StatReloader
+2021-12-30 18:05:28,997 django.utils.autoreload 251 INFO     D:\Program Files\JetBrains\python\djtest\setting\base.py changed, reloading.
+2021-12-30 18:05:29,558 django.utils.autoreload 637 INFO     Watching for file changes with StatReloader
+2021-12-30 18:06:23,689 django.request 224 ERROR    Internal Server Error: /admin/jobs/resume/
+Traceback (most recent call last):
+  File "D:\Program Files\python3.x\lib\site-packages\django_redis\cache.py", line 31, in _decorator
+    return method(self, *args, **kwargs)
+  File "D:\Program Files\python3.x\lib\site-packages\django_redis\cache.py", line 98, in _get
+    return self.client.get(key, default=default, version=version, client=client)
+  File "D:\Program Files\python3.x\lib\site-packages\django_redis\client\default.py", line 260, in get
+    raise ConnectionInterrupted(connection=client) from e
+django_redis.exceptions.ConnectionInterrupted: Redis ConnectionError: Error 11001 connecting to redis:6379. getaddrinfo failed.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Program Files\python3.x\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Program Files\python3.x\lib\site-packages\django\utils\deprecation.py", line 116, in __call__
+    response = self.process_request(request)
+  File "D:\Program Files\python3.x\lib\site-packages\django\middleware\cache.py", line 145, in process_request
+    cache_key = get_cache_key(request, self.key_prefix, 'GET', cache=self.cache)
+  File "D:\Program Files\python3.x\lib\site-packages\django\utils\cache.py", line 362, in get_cache_key
+    headerlist = cache.get(cache_key)
+  File "D:\Program Files\python3.x\lib\site-packages\django_redis\cache.py", line 91, in get
+    value = self._get(key, default, version, client)
+  File "D:\Program Files\python3.x\lib\site-packages\django_redis\cache.py", line 38, in _decorator
+    raise e.__cause__
+  File "D:\Program Files\python3.x\lib\site-packages\django_redis\client\default.py", line 258, in get
+    value = client.get(key)
+  File "D:\Program Files\python3.x\lib\site-packages\redis\client.py", line 1606, in get
+    return self.execute_command('GET', name)
+  File "D:\Program Files\python3.x\lib\site-packages\redis\client.py", line 898, in execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+  File "D:\Program Files\python3.x\lib\site-packages\redis\connection.py", line 1192, in get_connection
+    connection.connect()
+  File "D:\Program Files\python3.x\lib\site-packages\redis\connection.py", line 563, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 11001 connecting to redis:6379. getaddrinfo failed.
+2021-12-30 18:08:13,180 django.utils.autoreload 251 INFO     D:\Program Files\JetBrains\python\djtest\setting\base.py changed, reloading.
+2021-12-30 18:08:13,749 django.utils.autoreload 637 INFO     Watching for file changes with StatReloader
+2021-12-30 18:08:19,691 django.utils.autoreload 637 INFO     Watching for file changes with StatReloader
+2021-12-30 18:46:39,839 django.utils.autoreload 251 INFO     D:\Program Files\JetBrains\python\djtest\djtest\__init__.py changed, reloading.
+2021-12-30 18:46:40,448 django.utils.autoreload 637 INFO     Watching for file changes with StatReloader
+2021-12-30 18:47:37,267 django.utils.autoreload 251 INFO     D:\Program Files\python3.x\Lib\site-packages\pytz\__init__.py changed, reloading.
+2021-12-30 18:47:38,006 django.utils.autoreload 637 INFO     Watching for file changes with StatReloader
+2021-12-30 18:48:10,181 django.utils.autoreload 251 INFO     D:\Program Files\JetBrains\python\djtest\setting\local.py changed, reloading.
+2021-12-30 18:48:10,890 django.utils.autoreload 637 INFO     Watching for file changes with StatReloader
+2021-12-30 18:50:19,889 django.utils.autoreload 251 INFO     D:\Program Files\JetBrains\python\djtest\interview\admin.py changed, reloading.
+2021-12-30 18:50:20,549 django.utils.autoreload 637 INFO     Watching for file changes with StatReloader
+2021-12-30 18:55:42,547 django.utils.autoreload 251 INFO     D:\Program Files\python3.x\Lib\site-packages\celery\local.py changed, reloading.
+2021-12-30 18:55:43,184 django.utils.autoreload 637 INFO     Watching for file changes with StatReloader
+2021-12-30 18:59:39,664 django.utils.autoreload 251 INFO     D:\Program Files\python3.x\Lib\site-packages\celery\local.py changed, reloading.
+2021-12-30 18:59:40,296 django.utils.autoreload 637 INFO     Watching for file changes with StatReloader
+2021-12-30 19:05:44,646 django.utils.autoreload 251 INFO     D:\Program Files\python3.x\Lib\site-packages\kombu\utils\__init__.py changed, reloading.
+2021-12-30 19:05:45,411 django.utils.autoreload 637 INFO     Watching for file changes with StatReloader
+2021-12-30 19:28:24,229 django.utils.autoreload 251 INFO     D:\Program Files\python3.x\Lib\site-packages\amqp\serialization.py changed, reloading.
+2021-12-30 19:28:25,018 django.utils.autoreload 637 INFO     Watching for file changes with StatReloader
+2021-12-30 19:28:56,873 django.utils.autoreload 251 INFO     D:\Program Files\python3.x\Lib\site-packages\amqp\transport.py changed, reloading.
+2021-12-30 19:28:57,633 django.utils.autoreload 637 INFO     Watching for file changes with StatReloader
+2021-12-30 19:28:59,063 django.utils.autoreload 251 INFO     D:\Program Files\python3.x\Lib\site-packages\kombu\clocks.py changed, reloading.
+2021-12-30 19:28:59,694 django.utils.autoreload 637 INFO     Watching for file changes with StatReloader
+2021-12-31 13:45:59,536 django.utils.autoreload 637 INFO     Watching for file changes with StatReloader
+2021-12-31 13:58:55,272 django.utils.autoreload 637 INFO     Watching for file changes with StatReloader
+2021-12-31 13:59:31,440 django.utils.autoreload 637 INFO     Watching for file changes with StatReloader
+2021-12-31 14:05:22,837 django.request 224 WARNING  Not Found: /favicon.ico
+2021-12-31 14:05:25,528 jobs.views   25 INFO     job retrieved from db :5
+2021-12-31 14:50:33,708 django.utils.autoreload 251 INFO     D:\Program Files\JetBrains\python\djtest\setting\base.py changed, reloading.
+2021-12-31 14:50:34,446 django.utils.autoreload 637 INFO     Watching for file changes with StatReloader
+2021-12-31 14:52:23,620 django.utils.autoreload 251 INFO     D:\Program Files\JetBrains\python\djtest\djtest\celery.py changed, reloading.
+2021-12-31 14:52:24,342 django.utils.autoreload 637 INFO     Watching for file changes with StatReloader
+2021-12-31 14:53:13,639 django.utils.autoreload 251 INFO     D:\Program Files\JetBrains\python\djtest\djtest\celery.py changed, reloading.
+2021-12-31 14:53:14,348 django.utils.autoreload 637 INFO     Watching for file changes with StatReloader
+2021-12-31 14:54:03,629 django.utils.autoreload 251 INFO     D:\Program Files\JetBrains\python\djtest\setting\base.py changed, reloading.
+2021-12-31 14:54:04,338 django.utils.autoreload 637 INFO     Watching for file changes with StatReloader
+2021-12-31 14:55:00,063 django.utils.autoreload 251 INFO     D:\Program Files\JetBrains\python\djtest\djtest\celery.py changed, reloading.
+2021-12-31 14:55:00,762 django.utils.autoreload 637 INFO     Watching for file changes with StatReloader
+2021-12-31 14:55:44,309 django.utils.autoreload 251 INFO     D:\Program Files\JetBrains\python\djtest\djtest\celery.py changed, reloading.
+2021-12-31 14:55:45,008 django.utils.autoreload 637 INFO     Watching for file changes with StatReloader
+2021-12-31 14:56:15,346 django.utils.autoreload 251 INFO     D:\Program Files\JetBrains\python\djtest\djtest\celery.py changed, reloading.
+2021-12-31 14:56:16,054 django.utils.autoreload 637 INFO     Watching for file changes with StatReloader
+2021-12-31 14:57:30,641 django.utils.autoreload 251 INFO     D:\Program Files\JetBrains\python\djtest\djtest\celery.py changed, reloading.
+2021-12-31 14:57:31,368 django.utils.autoreload 637 INFO     Watching for file changes with StatReloader
+2021-12-31 14:59:04,877 django.utils.autoreload 251 INFO     D:\Program Files\JetBrains\python\djtest\djtest\celery.py changed, reloading.
+2021-12-31 14:59:05,601 django.utils.autoreload 637 INFO     Watching for file changes with StatReloader
+2021-12-31 15:19:51,257 django.utils.autoreload 251 INFO     D:\Program Files\JetBrains\python\djtest\setting\base.py changed, reloading.
+2021-12-31 15:19:51,938 django.utils.autoreload 637 INFO     Watching for file changes with StatReloader
+2021-12-31 15:20:22,724 django.utils.autoreload 637 INFO     Watching for file changes with StatReloader
+2021-12-31 15:49:17,632 django.utils.autoreload 251 INFO     D:\Program Files\JetBrains\python\djtest\interview\admin.py changed, reloading.
+2021-12-31 15:49:18,359 django.utils.autoreload 637 INFO     Watching for file changes with StatReloader
+2021-12-31 15:49:37,255 django.request 224 ERROR    Internal Server Error: /admin/interview/candidate/
+Traceback (most recent call last):
+  File "D:\Program Files\python3.x\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Program Files\python3.x\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Program Files\python3.x\lib\site-packages\django\contrib\admin\options.py", line 616, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "D:\Program Files\python3.x\lib\site-packages\django\utils\decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "D:\Program Files\python3.x\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "D:\Program Files\python3.x\lib\site-packages\django\contrib\admin\sites.py", line 232, in inner
+    return view(request, *args, **kwargs)
+  File "D:\Program Files\python3.x\lib\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\Program Files\python3.x\lib\site-packages\django\utils\decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "D:\Program Files\python3.x\lib\site-packages\django\contrib\admin\options.py", line 1723, in changelist_view
+    response = self.response_action(request, queryset=cl.get_queryset(request))
+  File "D:\Program Files\python3.x\lib\site-packages\django\contrib\admin\options.py", line 1408, in response_action
+    response = func(self, request, queryset)
+  File "D:\Program Files\JetBrains\python\djtest\interview\admin.py", line 31, in notify_interviewer
+    interviewers = obj.first_interviewer_user.username + ";" + interviewers
+AttributeError: 'NoneType' object has no attribute 'username'
+2021-12-31 15:51:09,253 django.utils.autoreload 251 INFO     D:\Program Files\JetBrains\python\djtest\interview\admin.py changed, reloading.
+2021-12-31 15:51:09,957 django.utils.autoreload 637 INFO     Watching for file changes with StatReloader
+2021-12-31 15:52:03,842 django.utils.autoreload 251 INFO     D:\Program Files\JetBrains\python\djtest\interview\tasks.py changed, reloading.
+2021-12-31 15:52:04,567 django.utils.autoreload 637 INFO     Watching for file changes with StatReloader
+2021-12-31 15:53:26,982 django.utils.autoreload 251 INFO     D:\Program Files\JetBrains\python\djtest\interview\admin.py changed, reloading.
+2021-12-31 15:53:27,675 django.utils.autoreload 637 INFO     Watching for file changes with StatReloader
+2021-12-31 15:56:17,908 django.utils.autoreload 251 INFO     D:\Program Files\JetBrains\python\djtest\interview\admin.py changed, reloading.
+2021-12-31 15:56:18,613 django.utils.autoreload 637 INFO     Watching for file changes with StatReloader
+2021-12-31 16:11:46,622 django.utils.autoreload 637 INFO     Watching for file changes with StatReloader
+2021-12-31 16:44:14,241 django.utils.autoreload 637 INFO     Watching for file changes with StatReloader
